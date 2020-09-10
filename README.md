@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/logo.svg" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lparolari/axisly/master/docs/logo.svg" width="400"></p>
 
 # Axisly
 
