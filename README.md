@@ -8,7 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/lparolari/axisly.svg)
 ![npm collaborators](https://img.shields.io/npm/collaborators/lparolari/axisly.svg)
 
-> A n-dimensional point reflector writtent in functional TypeScript.
+> A 2d point rotator writtent in functional TypeScript.
 
 ## Author
 

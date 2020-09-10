@@ -1,7 +1,7 @@
 {
   "name": "axisly",
   "version": "0.0.0-development",
-  "description": "An n-dimensional point reflector writtent in functional TypeScript.",
+  "description": "A 2d point rotator writtent in functional TypeScript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -58,5 +58,10 @@
   "files": [
     "dist/**/*"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "@types/mathjs": "^6.0.5",
+    "@types/ramda": "^0.27.16",
+    "mathjs": "^7.2.0",
+    "ramda": "^0.27.1"
+  }
 }
